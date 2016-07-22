@@ -1,2 +1,2 @@
 # holes
-holes - sns share game
+holes - share pictures or videos app
